@@ -1,0 +1,108 @@
+Linear Regression
+Model performance for Training set
+- Root Mean Squared Error: 5.3269
+- Mean Absolute Error: 4.2782
+- R2 Score: 0.8741
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 5.4108
+- Mean Absolute Error: 4.2279
+- R2 Score: 0.8797
+===================================
+
+Lasso
+Model performance for Training set
+- Root Mean Squared Error: 6.5938
+- Mean Absolute Error: 5.2063
+- R2 Score: 0.8071
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 6.5197
+- Mean Absolute Error: 5.1579
+- R2 Score: 0.8253
+===================================
+
+Ridge
+Model performance for Training set
+- Root Mean Squared Error: 5.3233
+- Mean Absolute Error: 4.2650
+- R2 Score: 0.8743
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 5.3904
+- Mean Absolute Error: 4.2111
+- R2 Score: 0.8806
+===================================
+
+K-Neighbors Regressor
+Model performance for Training set
+- Root Mean Squared Error: 5.7122
+- Mean Absolute Error: 4.5187
+- R2 Score: 0.8553
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 7.2516
+- Mean Absolute Error: 5.6160
+- R2 Score: 0.7839
+===================================
+
+Decision Tree
+Model performance for Training set
+- Root Mean Squared Error: 0.2795
+- Mean Absolute Error: 0.0187
+- R2 Score: 0.9997
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 8.0000
+- Mean Absolute Error: 6.3000
+- R2 Score: 0.7370
+===================================
+
+Random Forest Regressor
+Model performance for Training set
+- Root Mean Squared Error: 2.3466
+- Mean Absolute Error: 1.8582
+- R2 Score: 0.9756
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 6.0024
+- Mean Absolute Error: 4.6653
+- R2 Score: 0.8519
+===================================
+
+XGBRegressor
+Model performance for Training set
+- Root Mean Squared Error: 1.0073
+- Mean Absolute Error: 0.6875
+- R2 Score: 0.9955
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 6.4733
+- Mean Absolute Error: 5.0577
+- R2 Score: 0.8278
+===================================
+
+CatBoosting Regressor
+Model performance for Training set
+- Root Mean Squared Error: 3.0427
+- Mean Absolute Error: 2.4054
+- R2 Score: 0.9589
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 6.0086
+- Mean Absolute Error: 4.6125
+- R2 Score: 0.8516
+===================================
+
+AdaBoost Regressor
+Model performance for Training set
+- Root Mean Squared Error: 5.8007
+- Mean Absolute Error: 4.7681
+- R2 Score: 0.8508
+----------------------------------
+Model performance for Test set
+- Root Mean Squared Error: 5.9707
+- Mean Absolute Error: 4.6591
+- R2 Score: 0.8535
+===================================
+
